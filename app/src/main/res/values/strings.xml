@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Made4Earth</string>
+    <string name="button1">Enter Your Barre Code Here</string>
+    <string name="button2">Back</string>
+    <string name="button3">Back</string>
+    <string name="code">Barre Code</string>
+</resources>

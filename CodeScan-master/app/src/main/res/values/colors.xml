@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#31547F</color>
+    <color name="colorPrimaryDark">#182A40</color>
+    <color name="colorAccent">#497FBF</color>
+    <color name="blanc">#CCCCCC</color>
+    <color name="noir">#333333</color>
+    <color name="lvl1">#D9CEB4</color>
+    <color name="lvl2">#EFCC00</color>
+    <color name="lvl3">#E86202</color>
+    <color name="lvl4">#DD1200</color>
+    <color name="textitem">#7A8785</color>
+</resources>

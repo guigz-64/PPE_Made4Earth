@@ -1,0 +1,24 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowBackground">@color/blanc</item>
+        <item name="android:colorBackground">@color/blanc</item>
+        <!-- <item name="android:buttonStyle">@style/Bouton</item>-->
+        <item name="android:editTextColor">@color/noir</item>
+    </style>
+
+    <style name="Bouton" parent="@style/Widget.AppCompat.Button">
+        <item name="android:background">@color/colorPrimary</item>
+        <item name="android:layout_margin">20dip</item>
+    </style>
+
+    <style name="editTextStyle" >
+        <item name="android:textColor">@color/noir</item>
+    </style>
+
+</resources>

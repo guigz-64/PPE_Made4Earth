@@ -1,0 +1,23 @@
+<resources>
+
+    <!--            BASE DE DONNEES             -->
+
+    <string name="unknown_uri_error">"Unknown URI: "</string>
+    <string name="insertion_uri_error">"Insertion not allowed in: "</string>
+    <string name="update_uri_error">"Update not allowed: "</string>
+    <string name="delete_uri_error">"Delete not allowed: "</string>
+    <string name="code_deleted">Code deleted</string>
+    <string name="delete_code_failed">Fail to delete code</string>
+
+
+    <string name="app_name">Code Scan</string>
+    <string name="type">Type</string>
+    <string name="code">Code</string>
+    <string name="date">date</string>
+    <string name="valider">Valider</string>
+    <string name="annuler">Annuler</string>
+    <string name="informations">Informations</string>
+    <string name="sync">Synchronisation</string>
+
+    <item name="img" type="id">img</item>
+</resources>
