@@ -9,6 +9,6 @@ Finally, the last feature is the ability to create a virtual cabinet.
 
 How do you run it ?
 
-<br> download Android Studio <\br>
+<br> download Android Studio </br>
 -connect your Android device on the platform
 -run the code to start the uploading of the app on the device
